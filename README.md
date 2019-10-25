@@ -1,4 +1,3 @@
-
 # Stephen Colbert was here.
 RVersionControlClass
 
