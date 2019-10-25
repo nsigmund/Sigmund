@@ -1,5 +1,3 @@
-#I'm making a super bad change ... Crikey!
-
 ######################### Data wrangling in R ######################
 #### Based on the data carpentry ecology lessons: 
 ####       http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html
